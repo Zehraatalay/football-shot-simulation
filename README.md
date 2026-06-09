@@ -93,9 +93,13 @@ The project was developed with the following principles:
 
 ---
 
-# Screenshots
+## Screenshots
 
-Gameplay screenshots and demonstration videos will be added soon.
+### Football Simulation Environment
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a273a28-bad6-4a2b-8938-f53f4785b4b9" width="800"/>
+</p>
 
 ---
 
@@ -104,6 +108,6 @@ Gameplay screenshots and demonstration videos will be added soon.
 Developed as part of a Computer Engineering Graduation Project.
 
 Simulation Environment Design & Development:
-Fatma Zehra Atalay
+Zehra Atalay
 
 The Unity simulation environment, including player visualization, football field representation, simulation architecture, and interaction systems, was designed and implemented independently.
